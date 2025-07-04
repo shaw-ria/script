@@ -9,6 +9,7 @@ project_structure = {
         "processed": [],
         "interim": []
     },
+    
     "models": {
         "trained": [],
         "archs": []
@@ -157,4 +158,3 @@ if __name__ == "__main__":
     create_project_structure(project_path)
 
 
-    
